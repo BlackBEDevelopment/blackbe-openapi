@@ -6,6 +6,7 @@ module.exports = {
         nav: [
             { text: '介绍', link: '/' },
             { text: '文档', link: '/guide/' },
+            { text: '关于', link: '/about/' },
         ],
         sidebar: [
             ['/', '介绍'],
